@@ -1,7 +1,6 @@
-# {first_name}'s {course_code} Classwork
-Template repository for work done in Mr. Gallo's classes.
+# Sogol's TDR4M Classwork
 
-Edit this file in the following ways:
-1. Change to title to `# {your_first_name}'s {course_code} Classwork.` For example, `# Waynes's ICS3U Classwork.`
-    - *Do not change the **name** of this file. Keep it `README.md`*
-2. Delete everything else in the file.
+Why did you take this course and what are you hoping to get out of it?
+I am hoping to familiarize myself with the field of robotics
+
+What games and/or applications do you think are designed very well or have interesting features you would like to learn how to implement in your own games/applications? List the apps and features.
